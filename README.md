@@ -32,7 +32,7 @@ This is necessary because the Dense layers that follow expect 1D input.
 The data is split into training and test sets, and the model is trained to minimize the loss function, with the objective of maximizing classification accuracy.
 ## Usage
 
-1. Clone this repository or access the Kaggle notebook. https://www.kaggle.com/code/tubasari/fishdataset-bootcamp 
+1. Access the Kaggle notebook. https://www.kaggle.com/code/tubasari/fishdataset-bootcamp 
 2. Run the notebook to preprocess the data, build the ANN model, and evaluate its performance.
 
 ## Results
