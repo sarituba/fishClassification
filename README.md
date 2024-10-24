@@ -8,8 +8,6 @@ In this project, we will build a neural network to classify seafoods. We'll use 
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Conclusion](#conclusion)
-- [References](#references)
 
 ## Dataset
 
