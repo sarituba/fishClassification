@@ -32,4 +32,16 @@ This is necessary because the Dense layers that follow expect 1D input.
 - **Metrics**: Accuracy
 
 The data is split into training and test sets, and the model is trained to minimize the loss function, with the objective of maximizing classification accuracy.
+## Usage
+
+1. Clone this repository or access the Kaggle notebook. https://www.kaggle.com/code/tubasari/fishdataset-bootcamp 
+2. Run the notebook to preprocess the data, build the ANN model, and evaluate its performance.
+
+## Results
+
+The ANN model did not perform as well as expected, and its accuracy can be improved. The evaluation metrics such as the confusion matrix and classification report indicate strong performance in classifying the nine fish species.
+
+## Conclusion
+
+This project successfully demonstrates the application of a neural network in solving a multi-class classification problem using fish species data. With appropriate data preprocessing and model tuning, the neural network generalizes well to unseen data.
 
